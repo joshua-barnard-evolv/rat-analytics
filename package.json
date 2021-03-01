@@ -1,0 +1,12 @@
+
+{
+  "name": "@joshua-barnard-evolv/rat-analytics",
+  "version": "0.0.1",
+  "description": "Rat Analytics Integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Evolv Technologies",
+  "license": "ISC"
+}
